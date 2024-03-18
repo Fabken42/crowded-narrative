@@ -1,0 +1,37 @@
+* {
+    font-family: cursive !important;
+}
+
+.pointer--btn:hover {
+    cursor: pointer;
+}
+
+.books-bg {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.books01-bg {
+    background-image: url('../img/books01.jpg');
+}
+
+.books02-bg {
+    background-image: url('../img/books02.jpg');
+}
+
+.books03-bg {
+    background-image: url('../img/books03.jpg');
+}
+
+.books04-bg {
+    background-image: url('../img/books04.jpg');
+}
+
+.books05-bg {
+    background-image: url('../img/books05.jpg');
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .8);
+}
